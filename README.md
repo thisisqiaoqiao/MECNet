@@ -26,7 +26,7 @@ SICE Dataset：https://share.weiyun.com/C2aJ1Cti
 ```
 
 ## Ours Results
-| Expert A | Expert B | Expert C | Expert D | Expert E | Expert E |
+| Expert A | Expert B | Expert C | Expert D | Expert E | Average | #Param |
 |  ----  | ----  |----  |----  |----  |----  |
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
