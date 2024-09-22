@@ -28,5 +28,5 @@ SICE Dataset：https://share.weiyun.com/C2aJ1Cti
 ## Ours Results
 |        | Expert A | Expert B | Expert C | Expert D | Expert E | Average |
 |  ----  |  ----  | ----  |  ----  |  ----  |  ----  |  ----  |
-| PSNR |  20.653  | 22.931 | 22.769 | 21.017 | 21.040 | 21.682 |
-| SSIM |  0.831   | 0.882  | 0.871  | 0.856  | 0.863  | 0.861  |
+| PSNR | 20.653 | 22.931 | 22.769 | 21.017 | 21.040 | 21.682 |
+| SSIM | 0.831 | 0.882 | 0.871 | 0.856 | 0.863 | 0.861 |
