@@ -7,4 +7,26 @@
  options/train/train_Enhance.yml
 ```
 ## 2、Dataset
-MSEC dataset：https://github.com/mahmoudnafifi/Exposure_Correction
+MSEC Dataset：https://github.com/mahmoudnafifi/Exposure_Correction
+SICE Dataset：https://share.weiyun.com/C2aJ1Cti
+
+## 3、Dataset Preparation
+```Python
+ python create_txt.py
+```
+
+## 4、Training
+```Python
+ python train.py --opt options/train/train_Enhance.yml
+```
+
+## 5、Inference
+```Python
+ python train.py --opt options/train/train_Enhance.yml
+```
+
+## Ours Results
+| Expert A | Expert B | Expert C | Expert D | Expert E | Expert E |
+|  ----  | ----  |----  |----  |----  |----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
