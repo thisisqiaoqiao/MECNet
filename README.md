@@ -2,7 +2,9 @@
 
 ![](https://github.com/thisisqiaoqiao/MECNet/blob/main/MECNET_MSEC/img/img.png)
 
-## Parameters setting
+## 1、Parameters setting
 ```Python
  options/train/train_Enhance.yml
 ```
+## 2、Dataset
+MSEC dataset：https://github.com/mahmoudnafifi/Exposure_Correction
