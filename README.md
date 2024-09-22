@@ -7,7 +7,7 @@
  options/train/train_Enhance.yml
 ```
 ## 2、Dataset
-  MSEC Dataset：https://github.com/mahmoudnafifi/Exposure_Correction
+MSEC Dataset：https://github.com/mahmoudnafifi/Exposure_Correction
   SICE Dataset：https://share.weiyun.com/C2aJ1Cti
 
 ## 3、Dataset Preparation
